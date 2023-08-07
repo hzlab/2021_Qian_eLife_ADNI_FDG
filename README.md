@@ -1,6 +1,6 @@
 # Stage-dependent differential influence of metabolic and structural networks on memory across Alzheimer's disease continuum
 
-## References
+## Reference
 Kok Pin Ng, Xing Qian, Kwun Kei Ng, Fang Ji, Pedro Rosa-Neto, Serge Gauthier, Nagaendran Kandiah, Juan Helen Zhou (2022) Stage-dependent differential influence of metabolic and structural networks on memory across Alzheimer's disease continuum eLife 11:e77745
 https://doi.org/10.7554/eLife.77745
 
